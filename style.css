@@ -1,0 +1,72 @@
+
+
+.currentGrade{
+    font-family: "Comic Sans MS";
+    text-align: left;
+    margin:auto;
+    font-size: 20px;
+    color: darkred;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#calculate{
+    font-size: 22px;
+    background-color: whitesmoke;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: darkred;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#finalCalc{
+    font-family: "Comic Sans MS";
+    font-size: 22px;
+    margin-bottom: 44px;
+    background-color: whitesmoke;
+    padding: 10px 24px;
+    border-radius: 10px;
+    colour: darkred;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+
+
+button:focus {outline:0 !important;}
+
+body{
+    background-color:white;
+    background-image: url("berkeley school.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+#title{
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    color: darkred;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#weightedGrade{
+    font-family: "Comic Sans MS";
+    text-align: left;
+    margin:auto;
+    font-size: 32px;
+    color: darkred;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#finalHeader{
+    font-family: "Comic Sans MS";
+    text-align: left;
+    margin:auto;
+    color: darkred;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
